@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=💻Computer+Science+Engineer💻;🪜Algorithms+Enthusiast🪜;🤖AI+Enthusiast🤖;⚡Professional+Problem+Solver⚡;📂Opensource+Contributor📂)](https://git.io/typing-svg)
 
 
-<img src="https://github.com/Jaswanth-006/Jaswanth-006/blob/f171ac5688c630c28f88a96686356fae2db30786/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner%20(2).png" width="500">
+
 
 
 [![Email](https://img.shields.io/badge/📧_Contact-aashiqedavalapati58@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanth.s006@gmail.com)
