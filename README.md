@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/📧_Contact-aashiqedavalapati58@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanth.s006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-saravanan-162343321/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Experience_My_Work-6A5ACD?style=for-the-badge&logo=safari&logoColor=white)](https://jaswanthcomingsoon.vercel.app)
-[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-600+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jaswanth_saravanan/)
+[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jaswanth_saravanan/)
 
 
 </div>
